@@ -1,0 +1,1 @@
+@extend('fontEnd.master');

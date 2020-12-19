@@ -1,0 +1,1 @@
+@include('afterlogin.home.banner')
